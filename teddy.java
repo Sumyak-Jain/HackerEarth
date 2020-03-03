@@ -8,5 +8,6 @@ public class teddy{
         }
         else
         System.out.println("NO");
+        
     }
 }
