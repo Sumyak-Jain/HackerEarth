@@ -14,10 +14,8 @@ public static void main(String args[])
                      f=A^j;
                       if(f>=max){
                         max=f;
-                        C=j;
-                }
-            
-        }
+                        C=j;   }
+                  }
 
         System.out.println(B+" "+C);
 
