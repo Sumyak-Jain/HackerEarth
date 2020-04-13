@@ -17,7 +17,7 @@ public static void main(String args[])
                         C=j;   }
                   }
 
-        System.out.println(B+" "+C);
+     System.out.println(B+" "+C);
 
-    }
+}
 }
