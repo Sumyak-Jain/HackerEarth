@@ -9,9 +9,7 @@ public static void main(String args[])
         int f=0;
         int B=A;
         int C=0;
-        
-       
-        for(int j=0;j<=163;j++){
+                  for(int j=0;j<=163;j++){
             f=A^j;
                 if(f>=max){
                     max=f;
