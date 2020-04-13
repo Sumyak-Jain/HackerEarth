@@ -12,9 +12,9 @@ public static void main(String args[])
                   for(int j=0;j<=163;j++)
                   {
                      f=A^j;
-                if(f>=max){
-                    max=f;
-                    C=j;
+                      if(f>=max){
+                        max=f;
+                        C=j;
                 }
             
         }
